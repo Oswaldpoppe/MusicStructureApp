@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Music Structure App</string>
+    <string name="artist">Artist</string>
+    <string name="song">Song</string>
+
+    <!-- Categories -->
+    <string name="category_nowplaying">Now Playing</string>
+    <string name="category_details">Details</string>
+
+    <!-- Activities -->
+    <string name="search">Search</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="details">Details</string>
+
+    <!-- Music Navigation Buttons -->
+    <string name="go_back">Go Back</string>
+    <string name="play">Play</string>
+    <string name="go_forward">Go Forward</string>
+
+    <!-- Artist -->
+    <string name="avicii">Avicii</string>
+
+    <!-- Album Titel -->
+    <string name="stories">Stories</string>
+    
+    <!-- Song Titels -->
+    <string name="waiting_for_love">Waiting For Love</string>
+    <string name="talk_to_myself">Talk To Myself</string>
+    <string name="touch_me">Touch Me</string>
+    <string name="ten_more_days">Ten More Days</string>
+    <string name="for_a_better_day">For A Better Day</string>
+    <string name="broken_arrows">Broken Arrows</string>
+    <string name="true_believer">True Believer</string>
+    <string name="city_lights">City Lights</string>
+    <string name="pure_grinding">Pure Grinding</string>
+    <string name="sunset_jesus">Sunset Jesus</string>
+    <string name="cant_catch_me">Can\'t Catch Me</string>
+    <string name="somewhere_in_stockholm">Somewhere In Stockholm</string>
+    <string name="trouble">Trouble</string>
+    <string name="gonna_love_ya">Gonna Love Ya</string>
+</resources>
